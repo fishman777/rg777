@@ -1,7 +1,3 @@
-/*!
- * v3.0 Copyright 2016-2018 http://v.shoutu.cn
- * Email 726662013@qq.com
- */
 
 var playerhigh = "1"; 
 //是否开启播放器高度自适应，0关闭1开启（开启后将播放器设置100%关闭填写固定高度）
