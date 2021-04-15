@@ -1,7 +1,4 @@
-﻿/*!
- * Copyright 2016-2018 http://v.shoutu.cn
- * Email 726662013@qq.com,admin@shoutu.cn
- */
+
 $(document).ready(function($){
     var recente=$.cookie("recente");
     var len=0;
